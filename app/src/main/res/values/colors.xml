@@ -12,4 +12,6 @@
 
     <color name="red">#9D2227</color>
     <color name="green">#9BA72F</color>
+    <color name="green_light">#9AFF35</color>
+
 </resources>
